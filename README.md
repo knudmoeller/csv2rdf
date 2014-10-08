@@ -8,7 +8,7 @@ To provide conversion functionality for a specific kind of CSV document, a sub-c
 Dependencies
 ------------
 
-csv2rdf uses the ruby-rdf (http://ruby-rdf.github.io) for generating and serialising the RDF graph.
+csv2rdf uses ruby-rdf (http://ruby-rdf.github.io) for generating and serialising the RDF graph.
 
 
 License
